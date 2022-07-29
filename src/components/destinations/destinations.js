@@ -13,7 +13,7 @@ import Keywest from '../../assets/keywest.jpeg'
 
 function Destinations() {
     return (
-        <div className="destinations">
+        <div name="destinations" className="destinations">
             <div className="container">
                 <h1>All-Inclusive Resorts</h1>
                 <p>On The Carribean's Best Beaches</p>
